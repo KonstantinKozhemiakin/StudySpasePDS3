@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<menu>
+    <starters>
+        <starters_id id ='1'>
+            <name>name_1</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <price>1.9</price>
+        </starters_id>
+        <starters_id id ='2'>
+            <name>name_2</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+            </ingredients>
+            <price>3</price>
+        </starters_id>
+    </starters>
+    <salads>
+        <salads_id id ='1'>
+            <name>name_1</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <price>1.9</price>
+        </salads_id>
+        <salads_id id ='2'>
+            <name>name_2</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+            </ingredients>
+            <price>4</price>
+        </salads_id>
+        <salads_id id ='3'>
+            <name>name_3</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <price>6</price>
+        </salads_id>
+    </salads>
+    <seafood>
+        <seafood_id id ='1'>
+            <name>name_1</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <price>1.9</price>
+        </seafood_id>
+        <seafood_id id ='2'>
+            <name>name_2</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+            </ingredients>
+            <price>4</price>
+        </seafood_id>
+        <seafood_id id ='3'>
+            <name>name_3</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <price>6</price>
+        </seafood_id>
+    </seafood>
+    <desserts>
+        <desserts_id id ='1'>
+            <name>name_1</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <price>1.9</price>
+        </desserts_id>
+        <desserts_id id ='2'>
+            <name>name_2</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+            </ingredients>
+            <price>4</price>
+        </desserts_id>
+        <desserts_id id ='3'>
+            <name>name_3</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <price>6</price>
+        </desserts_id>.
+        <desserts_id id ='4'>
+            <name>name_4</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <price>6</price>
+        </desserts_id>
+    </desserts>
+    <drinks>
+        <drinks_id id ='1'>
+            <name>name_1</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <type>alcohol</type>
+            <price>1.9</price>
+        </drinks_id>
+        <drinks_id id ='2'>
+            <name>name_2</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+            </ingredients>
+            <type>alcohol</type>
+            <price>4</price>
+        </drinks_id>
+        <drinks_id id ='3'>
+            <name>name_3</name>
+            <ingredients>
+                <ingredient name = 'ingredient_name_1'/>
+                <ingredient name = 'ingredient_name_2'/>
+                <ingredient name = 'ingredient_name_3'/>
+                <ingredient name = 'ingredient_name_4'/>
+            </ingredients>
+            <type>non_alcohol</type>
+            <price>6</price>
+        </drinks_id>
+    </drinks>
+</menu>
